@@ -1,2 +1,1 @@
-# mxGraphDemo
-mxGraphDemo
+# vue portal demo
